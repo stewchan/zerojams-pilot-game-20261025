@@ -2,18 +2,18 @@
   "schema": 1,
   "templateVersion": "1.0.0",
   "type": "game",
-  "title": "ZeroJams Pilot Game — disposable test",
+  "title": "ZeroJams Pilot Game \u2014 disposable test",
   "summary": "Public disposable Game Jam lifecycle verification. This is not a student event; no prizes or real registrations.",
   "theme": "Click a small target",
-  "rules": "Make your own work during the jam. Credit collaborators, libraries and assets. Keep entries appropriate for a classroom. Use GitHub for your project. Your repository must be public. Submit your repository URL and exact commit.",
+  "rules": "Make your own work during the jam. Credit collaborators, libraries and assets. Keep entries appropriate for a classroom. Use GitHub for your project. Your repository must be public. Submit your repository URL and exact commit. Pilot update: credit the source of every reused asset. This is disposable test content.",
   "eligibility": "Only the two invited pilot test accounts. Disposable public test data only.",
   "websiteUrl": "https://stewchan.github.io/zerojams-pilot-game-20261025/",
   "timezone": "America/Toronto",
   "schedule": {
     "registrationOpensAt": "2026-10-25T16:00:00.000Z",
-    "registrationClosesAt": "2026-10-26T03:58:00.000Z",
+    "registrationClosesAt": "2026-10-25T20:59:00.000Z",
     "startsAt": "2026-10-25T16:01:00.000Z",
     "submissionsOpenAt": "2026-10-25T16:01:00.000Z",
-    "submissionsCloseAt": "2026-10-26T03:59:00.000Z"
+    "submissionsCloseAt": "2026-10-25T21:00:00.000Z"
   }
 }
